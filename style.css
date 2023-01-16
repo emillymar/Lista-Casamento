@@ -15,7 +15,6 @@ body {
     display: flex;
     flex-direction: column;
     overflow-x: hidden;
-    background-color:#f5e1e9;
 
 }
 main {
@@ -71,11 +70,9 @@ header h1{
     font-size: 30px;
     display: flex;
     justify-content: center;
-    background-color: #f5e1e9;
 }
 
 #presente{
-    background-color: red;
     width: 100vw;
     margin: auto;
     margin-top: 0px;
@@ -125,6 +122,8 @@ li {
 
     main {
         background: url('./img/fundoappp.png');
+        width: 100vw;
+        height: 100vh;
     }
 
     header h1{
