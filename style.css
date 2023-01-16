@@ -156,14 +156,15 @@ li {
 
     .card {
         display: flex;
-        width: 120px;
-        height: 180px;
+        width: 10px;
+        height: 160px;
         justify-content: space-around;
     }
     
     #presente ul{
        
         display: flex;
+        width: 100vw;
 
     }
 
