@@ -24,11 +24,12 @@ body {
 
 }
 main {
+    height: 100vh;
+    width: 100vw;
 
     background: url('./img/fundosite.png');
     background-size: 100% 100%;
-    width: 100%;
-    height: 100%;
+    
 }
 
 header{
@@ -166,13 +167,40 @@ header h1{
         display: flex;
         align-items: center;
         justify-content: center;
-        font-size: 50px;
+        font-size: 30px;
         font-family: 'Aniyah Personal Use', sans-serif;
         color: #ab414b;
-        
+    
     
     }
-    
+
+    #saudacao{
+        margin-top: 40px;
+        color: #4b5348;
+        font-size: 20px;
+        font-family: 'Cardo', serif;
+        padding-bottom: 0px;
+        padding-top: 0px;
+        margin-left: 5%;
+      
+    }
+
+    #introducao{
+        text-align: justify;
+        font-size: 18px;
+        color:  #4b5348;
+        padding-top: 10px;
+        margin-left: 5%;
+        margin-right: 5%;
+        margin-bottom: 2%;
+    }
+    .vale{
+        font-family: 'Aniyah Personal Use', sans-serif;
+        color: #ab414b;
+        font-size: 20px;
+        display: flex;
+        justify-content: center;
+    }
 
     #presente{
 
