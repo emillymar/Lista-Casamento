@@ -172,6 +172,7 @@ li {
         display: flex;
         flex-direction: column;
         vertical-align: bottom;
+        width: 100vw !important;
     }
 
     li {
