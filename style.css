@@ -172,10 +172,9 @@ li {
         display: flex;
         flex-direction: column;
         vertical-align: bottom;
-        width: 100vw !important;
+        width: 80vw !important;
         justify-items: stretch;
         justify-content: center;
-        margin-top: 600px;
     }
 
     li {
