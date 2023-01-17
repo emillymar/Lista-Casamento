@@ -142,7 +142,11 @@ header h1{
 
 
 @media screen and (max-width:992px) {
-
+    main {
+       
+        background: url('./img/fundoappp.png');
+        
+    }
 
     header{
         padding-top: 100px;
