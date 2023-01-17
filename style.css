@@ -168,6 +168,7 @@ li {
     #presente ul{
 
         display: flex;
+        margin-right: -50px;
 
     }
 
@@ -187,7 +188,7 @@ li {
 
         display: flex;
         position: relative; 
-        width: 33%;
+        width: 38%;
     }
 
     #bloco2{
