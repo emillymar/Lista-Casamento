@@ -173,6 +173,7 @@ li {
         flex-direction: column;
         vertical-align: bottom;
         width: 100vw !important;
+        justify-items: stretch;
     }
 
     li {
